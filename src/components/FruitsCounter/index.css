@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.main {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffd569;
+  height: 100vh;
+  background-size: cover;
+}
+
+.card-2 {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: white;
+  height: 100vh;
+  background-size: cover;
+}
+.fruits-cont {
+  display: flex;
+  flex-direction: row;
+}
+.img {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+.btn {
+  background-color: #007bff;
+  border-radius: 5px;
+  color: white;
+}
+.fruit-card {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
